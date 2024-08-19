@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x8DgKb9HK/lL3uZcHJfo48lY148XEWv8ipXKaoa3omM=",
+  "Source": "ChatAppSignalRApi",
+  "BasePath": "_content/ChatAppSignalRApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

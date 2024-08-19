@@ -1,0 +1,12 @@
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\bin\Debug\net8.0\Shared.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\bin\Debug\net8.0\Shared.pdb
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.pdb
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache

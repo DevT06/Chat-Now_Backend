@@ -1,0 +1,17 @@
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\DataAccess.EFCore.deps.json
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\DataAccess.EFCore.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\DataAccess.EFCore.pdb
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\refint\DataAccess.EFCore.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.pdb
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\ref\DataAccess.EFCore.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\DataAccess.EFCore.runtimeconfig.json
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\Shared.dll
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\bin\Debug\net8.0\Shared.pdb
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAcce.6A56E986.Up2Date
+C:\DEV\PM\Chat-Now\backend\BackendChatApp\DataAccess.EFCore\obj\Debug\net8.0\DataAccess.EFCore.genruntimeconfig.cache
