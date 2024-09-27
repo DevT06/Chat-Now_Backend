@@ -2406,7 +2406,10 @@
           "Shared": "1.0.0"
         },
         "runtime": {
-          "DataAccess.EFCore.dll": {}
+          "DataAccess.EFCore.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Shared/1.0.0": {
@@ -2416,7 +2419,10 @@
           "MySql.Data": "8.4.0"
         },
         "runtime": {
-          "Shared.dll": {}
+          "Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

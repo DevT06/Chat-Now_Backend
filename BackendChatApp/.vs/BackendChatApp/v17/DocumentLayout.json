@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BECCF4-2EC1-4F3B-888A-4941D63CC0F4}|ChatAppSignalRApi\\ChatAppSignalRApi.csproj|c:\\dev\\projects\\chat-now\\chat-now_backend\\backendchatapp\\chatappsignalrapi\\chatappsignalrapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1BECCF4-2EC1-4F3B-888A-4941D63CC0F4}|ChatAppSignalRApi\\ChatAppSignalRApi.csproj|solutionrelative:chatappsignalrapi\\chatappsignalrapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9336EB3B-CE5C-4C45-903D-2D3C1FAAA415}|Shared\\Shared.csproj|c:\\dev\\projects\\chat-now\\chat-now_backend\\backendchatapp\\shared\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9336EB3B-CE5C-4C45-903D-2D3C1FAAA415}|Shared\\Shared.csproj|solutionrelative:shared\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9336EB3B-CE5C-4C45-903D-2D3C1FAAA415}|Shared\\Shared.csproj|c:\\dev\\projects\\chat-now\\chat-now_backend\\backendchatapp\\shared\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9336EB3B-CE5C-4C45-903D-2D3C1FAAA415}|Shared\\Shared.csproj|solutionrelative:shared\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatAppSignalRApi",
+              "DocumentMoniker": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\ChatAppSignalRApi\\ChatAppSignalRApi.csproj",
+              "RelativeDocumentMoniker": "ChatAppSignalRApi\\ChatAppSignalRApi.csproj",
+              "ToolTip": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\ChatAppSignalRApi\\ChatAppSignalRApi.csproj",
+              "RelativeToolTip": "ChatAppSignalRApi\\ChatAppSignalRApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T23:10:10.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Shared\\Entities\\Message.cs",
+              "ToolTip": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Entities\\Message.cs*",
+              "RelativeToolTip": "Shared\\Entities\\Message.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:08:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Entities\\Chat.cs",
+              "RelativeDocumentMoniker": "Shared\\Entities\\Chat.cs",
+              "ToolTip": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Entities\\Chat.cs*",
+              "RelativeToolTip": "Shared\\Entities\\Chat.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:08:37.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

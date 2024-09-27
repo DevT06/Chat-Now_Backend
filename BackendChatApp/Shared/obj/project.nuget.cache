@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6C77K+aJDw=",
+  "dgSpecHash": "dnmGGo/2bw4=",
   "success": true,
-  "projectFilePath": "C:\\DEV\\TestD\\Chat-Now\\backend\\BackendChatApp\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timot\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Timot\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",

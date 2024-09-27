@@ -2374,11 +2374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\TestD\\Chat-Now\\backend\\BackendChatApp\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\DEV\\TestD\\Chat-Now\\backend\\BackendChatApp\\Shared\\Shared.csproj",
+      "projectPath": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\Timot\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\TestD\\Chat-Now\\backend\\BackendChatApp\\Shared\\obj\\",
+      "outputPath": "C:\\DEV\\Projects\\Chat-Now\\Chat-Now_Backend\\BackendChatApp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2393,6 +2393,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2445,7 +2446,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
